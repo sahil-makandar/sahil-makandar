@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F7B55,100:16A473&height=190&section=header&text=Sahil%20Makandar&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Solutions%20Architect&descSize=17&descAlignY=56&animation=fadeIn" width="100%" alt="Sahil Makandar — AI Solutions Architect" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F7B55,100:16A473&height=190&section=header&text=Sahil%20Makandar&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Solutions%20Architect&descSize=17&descAlignY=56&animation=fadeIn" width="100%" alt="Sahil Makandar, AI Solutions Architect" />
 
 <div align="center">
 
@@ -95,6 +95,8 @@ Three MCP servers giving an agent GitHub, Microsoft Learn, and the filesystem.
 BSc Honours, Computer Science · Goa University · CGPA 8.93
 
 350,000+ views on my RASA and AWS Lex tutorials
+
+<sub>Certificates and contracts read Mahaboobsab Makandar. Everyone says Sahil.</sub>
 
 <br>
 
