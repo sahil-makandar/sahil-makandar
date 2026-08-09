@@ -12,6 +12,7 @@
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/makandar.dev-0F7B55?style=for-the-badge&logo=googlechrome&logoColor=white)](https://makandar.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahaboobsab.goa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahaboobsab-makandar)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c8e392a02d74ac36)
@@ -108,6 +109,8 @@ Author of the RASA and AWS Lex tutorials and training material my team published
 <br>
 
 ### Say what's broken, or what you're trying to build.
+
+**[makandar.dev](https://makandar.dev)**
 
 </div>
 
