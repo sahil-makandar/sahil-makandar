@@ -15,6 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahaboobsab.goa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahaboobsab-makandar)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c8e392a02d74ac36)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sahilmakandar-goa)
 
 </div>
 
@@ -94,7 +95,7 @@ Three MCP servers giving an agent GitHub, Microsoft Learn, and the filesystem.
 
 BSc Honours, Computer Science · Goa University · CGPA 8.93
 
-350,000+ views on my RASA and AWS Lex tutorials
+Author of the RASA and AWS Lex tutorials and training material my team published
 
 <sub>Certificates and contracts read Mahaboobsab Makandar. Everyone says Sahil.</sub>
 
